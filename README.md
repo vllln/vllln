@@ -14,4 +14,4 @@
 ## 📬 Контакты
 
 * **Email:** ddstleerty@gmail.com
-* **Telegram:** [@ymerulenka](https://t.me)
+* **Telegram:** [@ymerulenka](https://t.me/ymerulenka)
