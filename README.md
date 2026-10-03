@@ -10,7 +10,8 @@
 ## 📂 Проекты
 
 * 🐍 **[mini-projects-python](https://github.com)** — Коллекция Python-проектов (игры, утилиты, умный кошелек).
-
+* 🐍 **[trepachev-python](https://github.com)** — Разбор синтаксиса и задач по учебнику Дмитрия Трепачёва (code.mu).
+* 
 ## 📬 Контакты
 
 * **Email:** ddstleerty@gmail.com
